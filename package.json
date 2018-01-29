@@ -1,0 +1,25 @@
+{
+  "name": "mod-15-es6-task-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"start": "babel js/script.js --watch --out-file script-compiled.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3mik/mod-15-es6-task-03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3mik/mod-15-es6-task-03/issues"
+  },
+  "homepage": "https://github.com/3mik/mod-15-es6-task-03#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
